@@ -2,7 +2,7 @@
 
 A lip reading app for Video calls which will help when there is background noise. The app will read your lips and translate it to text or voice to the person at the other end. 
 
-Step 1: Open the video call app and tap on Lip read
+**Step 1: Open the video call app and tap on Lip read**
 
 <img src="Story1.jpg" width="90%">
 
