@@ -4,11 +4,21 @@ A lip reading app for Video calls which will help when there is background noise
 
 Step 1: Open the video call app and tap on Lip read
 
+<img src="Story1.jpg" width="90%">
+
 Step 2: The app will mute your background noise for the person at the other end.
+
+<img src="Story2.jpg" width="90%">
+
+<img src="Story3.jpg" width="90%">
 
 step 3: Will start lip reading and show the text in the bottom for you
 
+<img src="Story4.jpg" width="90%">
+
 Step 4: The person at the other end can hear your simulated voice with clarity
+
+<img src="Story5.jpg" width="90%">
 
 
 # Tell us how you plan on bringing it to life.
