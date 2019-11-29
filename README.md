@@ -16,7 +16,7 @@ A lip reading app for Video calls which will help when there is background noise
 
 <img src="Story3.jpg" width="90%">
 
-***step 3: Will start lip reading and show the text in the bottom for you***
+***Step 3: Will start lip reading and show the text in the bottom for you***
 
 <img src="Story4.jpg" width="90%">
 
