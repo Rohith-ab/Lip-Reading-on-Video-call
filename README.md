@@ -28,4 +28,4 @@ The app is in a concept stage right now, we would like to use lip reading to rec
 
 # Tell us about you
 
-We are a software company called Flashbox in Bengaluru, India helping large enterprises build products. We also are developing an app called 5Things which shows you content (News, Restaurants, movies, weather, sports scores, stock market updates, trivia etc based on demography and location). At a time we show only 5Things. Right now we are in beta, we will be releasing the app within couple months.
+We are a software company called [Flashbox](http://flashbox.in/)  in Bengaluru, India helping large enterprises build products. We also are developing an app called [5Things](https://play.google.com/store/apps/details?id=com.flashbox.a5things) which shows you content (News, Restaurants, movies, weather, sports scores, stock market updates, trivia etc based on demography and location). At a time we show only 5Things. Right now we are in beta, we will be releasing the app within couple months.
