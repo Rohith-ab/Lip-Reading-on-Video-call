@@ -34,18 +34,38 @@ The app is in a concept stage right now.
 ### Our Approach : Contours of Face + Voice from mic + Smart Compose
 
 1. #### Contours of Face 
-
     We will use this to get the movement of the lips to extract best matching word which is being spelt by the user.
 
 2. #### Voice from mic
-
     We will use this to extract the best possible voice and words by also removing the background noise.
 
 3. #### Smart Compose
-
     By using the words which he has previously spoken, will we use Smart Compose to get best possible next word.
     
  By combining all the above 3 approches we will predict what the user is speaking.
+ 
+ ### How Google can help us:
+ 
+ * By providing the dataset for extracting words from contours of face or the Lip Reading model itself if Google has one to save time.
+ * Access to Smart Compose API.
+ * Dataset for removing background noise from sound.
+ * Natural Language Processing Expert as a mentor would be really helpful.
+ * Resources like GPU, Cloud and Server for video calling.
+ 
+ ### Timeline :
+
+#### In December 2019:
+* Studying and building the dataset.
+
+#### In January 2020:
+* Analyzing and Preparing the ML model.
+* Developing and Testing the Android App.
+
+#### In February & March 2020 :
+* Training and Testing the model.
+
+#### In April 2020:
+* Testing the final output in real environment.
 
 
 # Tell us about you
