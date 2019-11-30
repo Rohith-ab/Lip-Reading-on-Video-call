@@ -4,6 +4,8 @@
 
 A lip reading app for Video calls which will help when there is background noise. The app will read your lips and translate it to text or voice to the person at the other end. 
 
+Most people might have been in this situation: You have a conference call and you still haven't reached your home or office and in the middle of nowhere, in a train commuting, on the sidewalk, in a bar with friends...the list goes on. You still try to take the call and its too noisy! you end up dropping the call. Not any more...the Lip Reading assistant will save your day. All you have to do is when you are on the video call, tap on the Lip read action button and sit back and just talk in a very low voice, the app will read your lips and convert it to your simulated voice to the audience at the other end, simultaneously you can view the text spoken by you. It sure sounds like magic!
+
 ## App Flow
 
 ***Step 1: Open the video call app and tap on Lip read***
