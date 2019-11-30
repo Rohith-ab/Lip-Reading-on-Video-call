@@ -29,7 +29,23 @@ Most people might have been in this situation: You have a conference call and yo
 
 # Tell us how you plan on bringing it to life.
 
-The app is in a concept stage right now, we would like to use lip reading to recognise the speech and translate it to text or speech at the other end, to do this we would like to use on device ML to do the processing and show the results in real time.
+The app is in a concept stage right now. 
+
+### Our Approach : Contours of Face + Voice from mic + Smart Compose
+
+1. #### Contours of Face 
+
+    We will use this to get the movement of the lips to extract best matching word which is being spelt by the user.
+
+2. #### Voice from mic
+
+    We will use this to extract the best possible voice and words by also removing the background noise.
+
+3. #### Smart Compose
+
+    By using the words which he has previously spoken, will we use Smart Compose to get best possible next word.
+    
+ By combining all the above 3 approches we will predict what the user is speaking.
 
 
 # Tell us about you
