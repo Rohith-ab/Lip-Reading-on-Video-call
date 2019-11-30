@@ -2,9 +2,9 @@
 
 # Lip Reading on Video call
 
-A lip reading app for Video calls which will help when there is background noise. The app will read your lips and translate it to text or voice to the person at the other end. 
+A lip reading app for Video calls which will help when there is background noise. The app will read your lips and translate it into text or voice to the person at the other end. 
 
-Most people might have been in this situation: You have a conference call and you still haven't reached your home or office and in the middle of nowhere, in a train commuting, on the sidewalk, in a bar with friends...the list goes on. You still try to take the call and its too noisy! you end up dropping the call. Not any more...the Lip Reading assistant will save your day. All you have to do is when you are on the video call, tap on the Lip read action button and sit back and just talk in a very low voice, the app will read your lips and convert it to your simulated voice to the audience at the other end, simultaneously you can view the text spoken by you. It sure sounds like magic!
+Most people might have been in this situation: You have a conference call and you still haven't reached your home or office and in the middle of nowhere, in a train commuting, on the sidewalk, in a bar with friends...the list goes on. You still try to take the call and it's too noisy! you end up dropping the call. Not any more...the Lip Reading assistant will save your day. All you have to do is when you are on a video call, tap on the Lip read action button and sit back and just talk in a very low voice, the app will read your lips and convert it to your simulated voice to the audience at the other end, simultaneously you can view the text spoken by you. It sure sounds like magic!
 
 ## App Flow
 
@@ -40,9 +40,9 @@ The app is in a concept stage right now.
     We will use this to extract the best possible voice and words by also removing the background noise.
 
 3. #### Smart Compose
-    By using the words which he has previously spoken, will we use Smart Compose to get best possible next word.
+    By using the words which he has previously spoken, will we use Smart Compose to get the best possible next word.
     
- By combining all the above 3 approches we will predict what the user is speaking.
+ By combining all the above 3 approaches we will predict what the user is speaking.
  
  ### How Google can help us:
  
@@ -70,4 +70,4 @@ The app is in a concept stage right now.
 
 # Tell us about you
 
-We are a software company called [Flashbox](http://flashbox.in/)  in Bengaluru, India helping large enterprises build products. We also are developing an app called [5Things](https://play.google.com/store/apps/details?id=com.flashbox.a5things) which shows you content (News, Restaurants, movies, weather, sports scores, stock market updates, trivia etc based on demography and location). At a time we show only 5Things. Right now we are in beta, we will be releasing the app within couple months.
+We are a software company called [Flashbox](http://flashbox.in/)  in Bengaluru, India helping large enterprises build products. We also are developing an app called [5Things](https://play.google.com/store/apps/details?id=com.flashbox.a5things) which shows you content (News, Restaurants, movies, weather, sports scores, stock market updates, trivia etc based on demography and location). At a time we show only 5Things. Right now we are in beta, we will be releasing the app within a couple months.
